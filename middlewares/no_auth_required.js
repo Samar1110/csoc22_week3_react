@@ -1,3 +1,3 @@
 /***
- * @todo Redirect the user to main page if token is present.
+ * @todo Redirect the user to main page if token is present.sds
  */
